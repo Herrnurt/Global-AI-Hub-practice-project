@@ -5,7 +5,7 @@ Churn is the percentage of customers that stopped using company's product or ser
 # Introduction to ML Course 09/11/2020
 
 Note: Open Colabs in new tab!
-After undergoing training forone week
+
 ## Lesson-1
 - Probabilty Review
 - Linear Algebra Review
